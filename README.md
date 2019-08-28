@@ -15,9 +15,7 @@ Sede Caseros II - Valentín Gómez 4752 – Caseros, Buenos Aires.
 ## Contenidos del curso
 
 
-## Equipo de trabajo
-
-### Docentes
+## Docentes
 
 * [Maximiliano Yommi](https://www.linkedin.com/in/myommi)
 * [Fabricio Chungo](https://www.linkedin.com/in/fabricio-chungo-983421b2)
